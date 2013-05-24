@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1369344365000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1369430802000 1682 3420212b902f7dedc9acb900cc593775c40538e6 /Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/build/res/all/debug/values/values.xml
+1369432435000 980 d92fdfbabddeb84a05cbf94911d82d8ff97bd019 /Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/build/res/all/debug/layout/example_keyguard.xml
+1369430802000 683 5911fe854c4c95b249f6086c9f8ec89dba0dd91c /Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/build/res/all/debug/xml/example_appwidget_info
+1369432435000 980 d92fdfbabddeb84a05cbf94911d82d8ff97bd019 /Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/build/res/all/debug/layout/example_appwidget.xml
+1369430802000 262 5e0d34732fd5dec730a2aae085b6a1167e089090 /Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/build/res/all/debug/values-v14/values.xml
+1369344365000 807 a60965c79ac14066b96320829180f763e9f64f60 /Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/build/res/all/debug/values-v11/values.xml
+1369344365000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1369344365000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1369344365000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1369347102000 2101 42bac21d095a65386662d6ebafbf2c5dcaf6d7df /Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/build/res/all/debug/layout/activity_fullscreen.xml
+1369432435000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/build/res/all/debug/drawable-hdpi/preview.png

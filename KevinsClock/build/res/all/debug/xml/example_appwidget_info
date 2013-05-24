@@ -1,0 +1,12 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:minWidth="294dp"
+                    android:minHeight="72dp"
+                    android:updatePeriodMillis="60000"
+                    android:previewImage="@drawable/preview"
+                    android:initialLayout="@layout/example_appwidget"
+                    android:resizeMode="horizontal|vertical"
+                    android:widgetCategory="home_screen|keyguard"
+                    android:initialKeyguardLayout="@layout/example_keyguard">
+                    <!--android:configure="com.example.android.ExampleAppWidgetConfigure"-->
+
+        </appwidget-provider>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/src/main/assets" >
+            <file
+                name="BORON2.TTF"
+                path="/Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/src/main/assets/BORON2.TTF" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/test/AndroidStudioProjects/KevinsClock/KevinsClock/src/debug/assets" />
+    </dataSet>
+
+</merger>
