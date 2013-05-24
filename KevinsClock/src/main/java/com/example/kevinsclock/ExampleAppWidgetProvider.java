@@ -5,7 +5,9 @@ import android.appwidget.AppWidgetProvider;
 import android.appwidget.AppWidgetManager;
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.widget.RemoteViews;
+import android.widget.TextClock;
 
 /**
  * Created by test on 5/24/13.
@@ -13,7 +15,10 @@ import android.widget.RemoteViews;
 public class ExampleAppWidgetProvider {
     public void onUpdate(Context context, AppWidgetManager appWidgetManager, int[] appWidgetIds) {
         final int N = appWidgetIds.length;
-
+        TextClock tc=(TextClock)findViewById(R.id.textClock);
+        Typeface face=Typeface.createFromAsset(getAssets(),
+                "BORON2.TTF");
+        tc.setTypeface(face);
         // Perform this loop procedure for each App Widget that belongs to this provider
         for (int i=0; i<N; i++) {
             int appWidgetId = appWidgetIds[i];
